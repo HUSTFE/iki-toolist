@@ -14,6 +14,7 @@
   "author": "Dominic Ming",
   "license": "ISC",
   "devDependencies": {
+    "@types/classnames": "^2.2.6",
     "@types/react": "^16.4.13",
     "@types/react-dom": "^16.0.7",
     "awesome-typescript-loader": "^5.2.0",
@@ -25,5 +26,8 @@
     "tslint-react": "^3.6.0",
     "typescript": "^3.0.3",
     "webpack": "^4.17.1"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6"
   }
 }
